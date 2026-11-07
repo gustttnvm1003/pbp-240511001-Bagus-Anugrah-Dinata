@@ -41,19 +41,16 @@ c. Java
 
 ### Pertemuan 3: Responsive Design (LKP 2B)
 
-a. Desktop
+a. **Tampilan Desktop (1200px)**
 
-**Tampilan Desktop (1200px)**
 ![Desktop 1200px](lpk-2b/screenshot-1200.png)
 
-b. Tablet
+b. **Tampilan Tablet (768px)**
 
-**Tampilan Tablet (768px)**
 ![Tablet 768px](lpk-2b/screenshot-768.png)
 
-c. Mobile
+c. **Tampilan Mobile (375px)**
 
-**Tampilan Mobile (375px)**
 ![Mobile 375px](lpk-2b/screenshot-375.png)
 
 ---
