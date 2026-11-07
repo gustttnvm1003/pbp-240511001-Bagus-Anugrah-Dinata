@@ -1,19 +1,24 @@
-# 🛠️ Pertemuan 1: Setup Environment & Eksplorasi Platform
+# 🚀 Praktikum Pemrograman Berbasis Platform (PBP)
 
-Folder ini berisi hasil pengerjaan **Lembar Kerja Praktikum (LKP) 1** untuk mata kuliah Pemrograman Berbasis Platform.
+Selamat datang di repository GitHub saya! Repository ini berisi kumpulan tugas dan Lembar Kerja Praktikum (LKP) untuk mata kuliah **Pemrograman Berbasis Platform**, Program Studi S1 Teknik Informatika, Universitas Muhammadiyah Cirebon.
 
-## 🎯 Tujuan Praktikum
-1. Menyiapkan environment pengembangan perangkat lunak (Git, Node.js, VS Code, IntelliJ IDEA).
-2. Mengeksekusi program "Hello World" dasar di tiga platform berbeda: Web, Node.js (Back-End), dan Desktop (Java).
-3. Menganalisis perbedaan karakteristik dari berbagai platform.
+## 👨‍💻 Profil Mahasiswa
 
-## 📂 Struktur File
-*   `hello.html` - Implementasi platform Web menggunakan HTML dasar.
-*   `hello.js` - Implementasi platform Back-End menggunakan JavaScript (Node.js).
-*   `HelloDesktop.java` - Implementasi platform Desktop menggunakan Java.
-*   `analisis-platform.md` - Tabel analisis perbandingan karakteristik Web, Desktop, dan Mobile.
+*   **Nama:** Bagus Anugrah Dinata
+*   **NIM:** 240511001
+*   **Program Studi:** S1 Teknik Informatika
+*   **Universitas:** Universitas Muhammadiyah Cirebon
+*   **Tahun Akademik:** 2026
 
-## 🚀 Cara Menjalankan
-1. **Web:** Buka file `hello.html` menggunakan web browser (Chrome/Edge/Firefox).
-2. **Node.js:** Buka terminal pada folder ini dan jalankan perintah `node hello.js`.
-3. **Java Desktop:** Buka terminal, kompilasi kode dengan `javac HelloDesktop.java`, lalu jalankan dengan `java HelloDesktop`.
+## 📁 Daftar Pertemuan Praktikum
+
+Di bawah ini adalah daftar tautan cepat untuk mengakses hasil pengerjaan setiap lembar kerja praktikum:
+
+| Pertemuan | Topik Pembahasan | Direktori / Folder |
+| :---: | :--- | :--- |
+| **1** | Pengenalan Pemrograman Berbasis Platform & Setup Environment | [📂 LKP 1 - Setup & Hello World](./lpk-1) |
+| **2** | HTML5 & CSS Dasar (Halaman Profil Pribadi) | [📂 LKP 2A - Profil Statis](./lpk-2a) |
+| **3** | Responsive Design (Media Queries) | [📂 LKP 2B - Profil Responsif](./lpk-2b) |
+
+---
+*Dibuat untuk memenuhi tugas mata kuliah Pemrograman Berbasis Platform (PBP).*
