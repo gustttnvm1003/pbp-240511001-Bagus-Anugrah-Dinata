@@ -25,6 +25,7 @@ Di bawah ini adalah daftar tautan cepat untuk mengakses hasil pengerjaan setiap 
 ### Pertemuan 1: Setup Environment (LKP 1)
 
 a.HTML
+
 ![Hello Web](lpk-1/screenshot-web.png)
 
 b.Node.js
@@ -32,6 +33,7 @@ b.Node.js
 ![Hello Node](lpk-1/screenshot-node.png)
 
 c.Java
+
 ![Hello Desktop](lpk-1/screenshot-desktop.png)
 
 ### Pertemuan 2: Halaman Profil Statis (LKP 2A)
