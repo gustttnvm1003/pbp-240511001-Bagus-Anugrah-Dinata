@@ -19,6 +19,8 @@ Di bawah ini adalah daftar tautan cepat untuk mengakses hasil pengerjaan setiap 
 | **1** | Pengenalan Pemrograman Berbasis Platform & Setup Environment | [📂 LKP 1 - Setup & Hello World](./lpk-1) |
 | **2** | HTML5 & CSS Dasar (Halaman Profil Pribadi) | [📂 LKP 2A - Profil Statis](./lpk-2a) |
 | **3** | Responsive Design (Media Queries) | [📂 LKP 2B - Profil Responsif](./lpk-2b) |
+| **4** | JavaScript Fundamentals & DOM (To-Do List JS Murni) | [📂 LKP 3A - To-Do List JS](./lpk-3a) |
+| **5** | React Fundamentals (Konversi To-Do List ke React) | [📂 LKP 3B - To-Do List React](./lpk-3b) |
 
 ## 📸 Screenshot Hasil Eksekusi
 
@@ -52,6 +54,14 @@ b. **Tampilan Tablet (768px)**
 c. **Tampilan Mobile (375px)**
 
 ![Mobile 375px](lpk-2b/screenshot-375.png)
+
+### Pertemuan 4: JavaScript Fundamentals & DOM (LKP 3A)
+
+![To-Do List JS Murni](lpk-3a/screenshot-hasil.png)
+
+### Pertemuan 5: React Fundamentals (LKP 3B)
+
+![To-Do List React](lpk-3b/screenshot-hasil.png)
 
 ---
 *Dibuat untuk memenuhi tugas mata kuliah Pemrograman Berbasis Platform (PBP).*
